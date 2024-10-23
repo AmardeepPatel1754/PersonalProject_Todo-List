@@ -1,5 +1,5 @@
-import React from 'react';
-import Todo from './Components/Todo';
+import React from 'react'
+import Todo from './Components/Todo'
 
 const App = () => {
   return (
@@ -9,4 +9,4 @@ const App = () => {
   )
 }
 
-export default App;
+export default App
